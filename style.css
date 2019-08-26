@@ -1,0 +1,364 @@
+body{
+   
+    font-family: 'Acme', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.container-wrapper{
+     text-align: center;
+    margin-top: 200px;
+    background-color: #101b0d;
+    color: white;
+}
+#signin{
+    border:1.5px solid white ;
+/*    margin: 10px 500px 0px 500px;*/
+    padding: 10px 10px 10px 10px;
+    box-sizing: border-box;
+}
+span{
+    color:#ff5b4a;
+}
+ #facebook{
+    background-color: #177194;
+    padding: 10px 100px 10px 100px;
+    margin: 0px 50px 0px 50px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+#facebook a{
+    color: white;
+    text-decoration: none;
+}#twitter a{
+    color: white;
+    text-decoration: none;
+}#google a{
+    color: white;
+    text-decoration: none;
+}
+#twitter {
+    background-color: #04baff;
+    padding: 10px 100px 10px 100px;
+    margin: 10px 50px 0px 50px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+#google{
+    background-color: #2196f4;
+    padding: 10px 100px 10px 100px;
+    margin: 10px 50px 0px 50px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+#left{
+    background-color: #252746;
+    height: 640px;
+    text-align: center;
+    color: white;
+    
+}
+/*
+#left .p{
+    margin-top:200px;
+}
+*/
+#left .h3 a{
+    color: white;
+}
+#left .h3{
+    margin-top: 100px;
+}
+#innerleft{
+    background-color: #f4f7fc;
+    padding-bottom: 7px;
+/*    height: 640px;*/
+}
+#innerleft a{
+    color: black;
+    text-decoration: none;
+}
+#innerright{
+    background-color: #ffffff;
+    height: 640px;
+    
+}
+#fill input{
+    float: right;
+}
+#fill #search{
+    border-radius: 15px;
+    padding-left: 10px;
+    width: 300px;
+    border: none;
+    
+}
+#bowners1{
+    margin: 20px 0px 30px 0px;
+    text-align: center;
+    padding: 20px;
+     height: 150px;
+}
+
+
+#bowners2{
+   margin: 20px 0px 30px 0px;
+    text-align: center;
+     padding: 20px;
+
+    height: 150px;
+}
+
+#bowners3{
+    margin: 20px 0px 30px 0px;
+    text-align: center;
+     padding: 20px;
+     height: 150px;
+}
+
+#b1{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    margin-left: -5px;
+    
+    
+}
+#b1:hover{
+    background-color: darkcyan;
+    padding: 30px;
+    border-radius: 5px;
+    margin-left: -5px;
+    margin-top: -10px;
+}
+
+#b2{
+    background-color: #ff5b4a;
+   padding: 20px;
+    border-radius: 5px;
+    margin: 5px;
+    color: white;
+/*
+     margin-left: 5px;
+     margin-right: 5px;
+*/
+}
+#b2 a{
+    color: white;
+}
+#b2:hover{
+    background-color: darkcyan;
+    padding: 30px;
+    border-radius: 5px;
+    margin-left: -5px;
+    margin-top: -10px;
+}
+
+#b3{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    margin-right: -5px;
+     
+}
+#b3:hover{
+    background-color: darkcyan;
+    padding: 30px;
+    border-radius: 5px;
+    margin-left: -5px;
+    margin-top: -10px;
+}
+#b4{
+    background-color:#ffff ;
+    padding: 20px;
+    border-radius: 5px;
+    margin-left: -5px;
+    
+    
+}
+#b4:hover{
+    background-color: darkcyan;
+    padding: 30px;
+    border-radius: 5px;
+    margin-left: -5px;
+    margin-top: -10px;
+}
+
+#b5{
+    background-color:#8847da ;
+   padding: 20px;
+    border-radius: 5px;
+    margin: 5px;
+    color: white;
+/*
+     margin-left: 5px;
+     margin-right: 5px;
+*/
+}
+#b5 a{
+    color: white;
+}
+#b5:hover{
+    background-color: darkcyan;
+    padding: 30px;
+    border-radius: 5px;
+    margin-left: -5px;
+    margin-top: -10px;
+}
+
+#b6{
+    background-color: #ffff;
+    padding: 20px;
+    border-radius: 5px;
+    margin-right: -5px;
+     
+}
+#b6:hover{
+    background-color: darkcyan;
+    padding: 30px;
+    border-radius: 5px;
+    margin-left: -5px;
+    margin-top: -10px;
+}
+#b7{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    margin-left: -5px;
+    
+    
+}
+#b7:hover{
+    background-color: darkcyan;
+    padding: 30px;
+    border-radius: 5px;
+    margin-left: -5px;
+    margin-top: -10px;
+}
+
+#b8{
+    background-color: #ff5b4a;
+   padding: 20px;
+    border-radius: 5px;
+    margin: 5px;
+    color: white;
+/*
+     margin-left: 5px;
+     margin-right: 5px;
+*/
+}
+#b8 a{
+    color: white;
+}
+#b8:hover{
+    background-color: darkcyan;
+    padding: 30px;
+    border-radius: 5px;
+    margin-left: -5px;
+    margin-top: -10px;
+}
+
+#b9{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    margin-right: -5px;
+     
+}
+#b9:hover{
+    background-color: darkcyan;
+    padding: 30px;
+    border-radius: 5px;
+    margin-left: -5px;
+    margin-top: -10px;
+}
+#userprofile ul{
+    margin-left: -5px;
+    list-style-type: none;
+    
+}
+
+#userprofile ul li{
+    float: left;
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+}
+#userprofile ul li img{
+    border-radius: 20px;
+    margin-top: -10px;
+}
+#login{
+    margin-top: 80px;
+    background-color: #8847da;
+    text-align: center;
+    color: black;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding: 50px 0px 50px 50px;
+    margin-right: -15px;
+}
+#login button{
+    background-color: #ff5b4a;
+    border: none;
+}
+#login button a{
+    color: white;
+    text-decoration: none;
+}
+#profile1{
+    background-color: #f4f7fc;
+}#profile2{
+    background-color: #ffffff;
+}#profile3{
+    background-color: #252746;
+}#profile4{
+    background-color: #ffffff;
+}#profile5{
+    background-color: #f4f7fc;
+}#profile6{
+    background-color: #ffffff;
+}#profile7{
+    background-color: #252746;
+}#profile8{
+    background-color: #ffffff;
+}#profile9{
+    background-color: #f4f7fc;
+}
+#innerprofile{
+    text-align: center;
+    padding: 113px;
+}
+#innerprofile .innerprofile1{
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 20px 20px 20px 0px #e2e8f4;
+}
+#innerprofile .innerprofile1 img{
+    border-radius: 10px;
+}
+#innerprofile .innerprofile1 button{
+    background-color: #ff5b4a;
+    border: none;
+    color: white;
+}#innerprofile .innerprofile1 button a{
+    color: white;
+    text-decoration: none;
+}
+#work{
+    text-align: center;
+    padding: 113px
+}
+#mycarousal{
+    height: 500px;
+}
+footer{
+    text-align: center;
+    background-color: #252746;
+    padding: 10px;
+}
+.container-main .btn-default{
+    background-color:  #ff5b4a;
+    color: white;
+    border: none;
+}
